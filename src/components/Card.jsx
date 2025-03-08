@@ -39,7 +39,7 @@ function Card() {
             <div id="card-inside">
               <div className="wrap">
                 <p className="text-xl font-bold">🌸 Chúc mừng ngày 8/3! 💖</p>
-                <p>Gửi đến cô giáo kính mến,</p>
+                <p>Gửi đến cô Thanh,</p>
                 <p>
                   Nhân ngày Quốc tế Phụ nữ, chúng em xin gửi lời chúc tốt đẹp
                   nhất đến cô! 💐 Chúc cô luôn mạnh khỏe, hạnh phúc và gặt hái
